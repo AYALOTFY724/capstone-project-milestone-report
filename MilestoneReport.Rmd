@@ -1,7 +1,7 @@
 ---
 title: 'Coursera Data Science Capstone: Milestone Report'
-author: "Pradeep K. Pant, ppant@cpan.org"
-date: "September 4, 2016"
+author: "yaswanth kumar.s"
+date: "December 25 2020"
 output: html_document
 ---
 
